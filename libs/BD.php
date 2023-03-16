@@ -16,10 +16,10 @@ class BD
     {
 
         //--------------------------------Datos de la base de datos(datos de ejemplo)
-        $db_host = "ip";
-        $db_username = "xx";
-        $db_pass = "xx";
-        $db_name = "xx";
+        $db_host = "localhost";
+        $db_username = "u518286121_dado";
+        $db_pass = "9s0RdqTd8BGy";
+        $db_name = "u518286121_AppDado";
         //--------------------------------Datos de la base de datos local 
         //--------------------------------Ingresar para la conexion
         try {

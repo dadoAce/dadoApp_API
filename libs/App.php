@@ -13,7 +13,7 @@ class App
             OPCIONAL:       LLENAR SI QUIERES ESPECIFICAR OTRA DIRECCIÓN
       
       */
-    public $_localhost = "/DadoRoom";
+    public $_localhost = "/appMobile";
 
     public $_base_url = "";
 
